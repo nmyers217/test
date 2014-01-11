@@ -1,0 +1,15 @@
+{
+  "name": "lmao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nmyers217/test.git",
+  "author": "nmyers217 <nmyers@meazurelearning.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "execa": "^5.1.1",
+    "moment": "^2.29.1"
+  }
+}
